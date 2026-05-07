@@ -2,12 +2,12 @@ print("Hello, World!")
 
 # ini adalah komen pada 
 
-# kita bisa mengcompile pthon ke
+# kita bisa mengcompile python ke
 # yang namanya bytecode 
 # cara mengcompile, buka terminal dan ketik
 # python3 -m py_compile main.py
 
-# variable
+# VARIABLE
 # variable adalah tempat untuk menyimpan data
  # a adalah variable yang menyimpan data 10
  # = adalah operator assignment untuk memberikan nilai ke variable
@@ -35,3 +35,15 @@ print("Nilai a = ", a) # nilai a sekarang adalah 5
 # assigment indierect
 b = a # variable b sekarang menyimpan nilai yang sama dengan variable a
 print("Nilai b = ", b) # nilai b adalah 5, karena menyimpan
+
+# TIPE DATA
+# tipe data adalah jenis data yang bisa disimpan dalam variable
+# a = 10, a adalah variable dengan nilai 10
+
+# tie data: angkasatuan yang tidak ada komanya
+data_integer = 10
+print("Data :", data_integer)
+print("-- Bertipe : : ", type(data_integer))
+
+
+# 
