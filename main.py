@@ -73,8 +73,3 @@ print("Data :", data_c_double)
 print("-- Bertipe : ", type(data_c_double))
 
 
-
-
-
-### Casting tipe data adalah merubah dari satu tipe data ke tipe data lain
-

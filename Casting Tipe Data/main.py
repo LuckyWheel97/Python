@@ -1,0 +1,1 @@
+### Casting tipe data adalah merubah dari satu tipe data ke tipe data lain
